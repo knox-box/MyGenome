@@ -11,7 +11,7 @@ fastqc &
 ```
 Load in F1 and R! datasets into GUI interface.
 Take screen shots of the output files:
-![F1screenshot.png](/data/F1screenshot.png)
+![F1screenshot.png](/data/[F1screenshot.png](https://github.com/knox-box/MyGenome/blob/main/data/Screenshot%202024-02-22%20140540.png))
 
 ## 2. Ran trimmomatic
 ```bash
