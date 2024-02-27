@@ -11,8 +11,8 @@ fastqc &
 ```
 Load in F1 and R! datasets into GUI interface.
 Take screen shots of the output files:
-!(/data/Screenshot%2024-02-22%20140540.png).
-!(/data/Screenshot%2024-02-27%143852.png").
+![](/data/Screenshot%2024-02-22%20140540.png).
+![](/data/Screenshot%2024-02-27%143852.png").
 
 ## 2. Ran trimmomatic
 ```bash
