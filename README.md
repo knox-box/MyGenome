@@ -1,4 +1,4 @@
-# MyGenome
+# UFVPY198
 Analysis for CS485G genome assembly
 Professor Mark Farman
 
